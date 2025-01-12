@@ -18,22 +18,15 @@ git clone https://github.com/TJU-IRA/FANE.git
 
 <table class="tg"><thead>
   <tr>
-    <th class="tg-c3ow">Scale</th>
+    <th class="tg-c3ow">pre-trained models</th>
     <th class="tg-c3ow">Link</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow">x2</td>
+    <td class="tg-c3ow">SDS-FSW</td>
     <td class="tg-c3ow"><a href="https://drive.google.com/drive/folders/1jq6xowAfEymklsMCwllfrJ26723_yBcR?usp=sharing" target="_blank" rel="noopener noreferrer">[GoogleDrive]</a></td>
   </tr>
-  <tr>
-    <td class="tg-c3ow">x4</td>
-    <td class="tg-c3ow"><a href="https://drive.google.com/drive/folders/1jq6xowAfEymklsMCwllfrJ26723_yBcR?usp=sharing" target="_blank" rel="noopener noreferrer">[GoogleDrive]</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">x8</td>
-    <td class="tg-c3ow"><a href="https://drive.google.com/drive/folders/1jq6xowAfEymklsMCwllfrJ26723_yBcR?usp=sharing" target="_blank" rel="noopener noreferrer">[GoogleDrive]</a></td>
-  </tr>
+
 </tbody>
 </table>
 
