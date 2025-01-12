@@ -18,7 +18,7 @@ git clone https://github.com/TJU-IRA/FANE.git
 
 <table class="tg"><thead>
   <tr>
-    <th class="tg-c3ow">pre-trained models</th>
+    <th class="tg-c3ow">Pre-trained models</th>
     <th class="tg-c3ow">Link</th>
   </tr></thead>
 <tbody>
