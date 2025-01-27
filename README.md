@@ -1,5 +1,5 @@
 # FANE
-FANE is a Feature-Aware Nonlinear Ensemble model for SDS-FSW mechanical property prediction that has been submitted to ADVEI. The code will be made public after the acceptance of the paper.
+FANE is a Feature-Aware Nonlinear Ensemble model for SDS-FSW mechanical property prediction that has been submitted to JMP. The code will be made public after the acceptance of the paper.
 ## Requirements
 1.Python 3.x    
 
